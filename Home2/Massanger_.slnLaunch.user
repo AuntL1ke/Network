@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "ServerApp\\ServerApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "MassangerClientApp\\MassangerClientApp.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
